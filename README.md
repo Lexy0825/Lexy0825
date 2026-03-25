@@ -31,6 +31,8 @@ projects:
   - Web-site for ARtour of my school
   - RTSP utils
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/Lexy0825/Lexy0825/blob/output/github-contribution-grid-snake.svg)
+## My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/>
+</p>
