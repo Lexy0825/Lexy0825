@@ -36,3 +36,8 @@ projects:
   <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
+<div align="center" style="border:2px solid #4CAF50; padding:10px; border-radius:10px; display:flex; align-items:center; justify-content:center; gap:15px;">
+  <p style="margin:0; font-size:18px;">Ciao! Sono Leonardo e amo programmare!</p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" style="border-radius:8px;"/>
+</div>
