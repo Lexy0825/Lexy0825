@@ -38,6 +38,6 @@ projects:
 </p>
 
 <div align="center" style="border:2px solid #4CAF50; padding:10px; border-radius:10px; display:flex; align-items:center; justify-content:center; gap:15px;">
-  <p style="margin:0; font-size:18px;">Ciao! Sono Leonardo e amo programmare!</p>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" style="border-radius:8px;"/>
+  <p style="margin:0; font-size:18px;">Una semplice papera</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
 </div>
