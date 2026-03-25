@@ -15,7 +15,6 @@
 
 ##  About Me
 
-```yaml
 name: Leonardo
 role: Developer/Student
 focus: Systems & Low-level programming
