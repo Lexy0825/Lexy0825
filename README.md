@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Leonardo%20Collaretta&fontSize=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Leonardo%20&fontSize=35"/>
 </p>
 
 <!-- WHOAMI -->
@@ -56,4 +56,11 @@ projects:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/> </p> 
 
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=DAI%20UN'%20OCCHIATA!&fontSize=35&animation=wave&flip=true"/> </p> ```
+## >>> Contact Me 📬
+
+- ✉️ Email personale: cleonardo.ge@gmail.com**  
+- 🏫 Email scuola: Leonardo.collaretta.2008@calvino.edu.it**  
+- 📸 Instagram: [@_.leo._rs](https://www.instagram.com/_.leo._rs/)
+- 💼 GitHub: [Leonardo C.(https://github.com/Lexy0825)
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=DAI%20UN'%20OCCHIATA!&fontSize=35&animation=wave&flip=true"/> </p> ```
