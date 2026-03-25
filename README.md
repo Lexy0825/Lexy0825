@@ -46,5 +46,7 @@ projects:
   <!-- Immagine a destra -->
   <div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
   </div>
 </div>
