@@ -37,7 +37,14 @@ projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<div style="border:2px solid #4CAF50; padding:10px; border-radius:10px; display:flex;  gap:15px;">
-  <p style="margin:0; font-size:18px;">Una semplice papera</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
+<div style="display:flex; align-items:center; gap:20px; border:2px solid #4CAF50; padding:10px; border-radius:10px; max-width:500px;">
+  <!-- Testo a sinistra -->
+  <div style="flex:1; font-size:18px;">
+    Una semplice papera
+  </div>
+
+  <!-- Immagine a destra -->
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
+  </div>
 </div>
