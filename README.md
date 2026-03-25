@@ -31,3 +31,6 @@ projects:
   - Web-site for ARtour of my school
   - RTSP utils
 
+## 🐍 Contribution Snake
+
+![snake](https://github.com/Lexy0825/Lexy0825/blob/output/github-contribution-grid-snake.svg)
