@@ -56,4 +56,4 @@ projects:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/> </p> 
 
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Leonardo%20Collaretta&fontSize=35&animation=wave&flip=true"/> </p> ```
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=DAI%20UN'%20OCCHIATA!&fontSize=35&animation=wave&flip=true"/> </p> ```
