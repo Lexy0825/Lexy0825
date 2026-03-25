@@ -39,7 +39,7 @@ projects:
 
 <div style="display:flex; align-items:center; gap:20px; border:2px solid #4CAF50; padding:10px; border-radius:10px; max-width:500px;">
   <!-- Testo a sinistra -->
-  <div style="flex:1; font-size:18px;">
+  <div style="flex:1; font-size:58px;">
     Una semplice papera
   </div>
 
