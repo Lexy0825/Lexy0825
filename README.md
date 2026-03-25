@@ -1,8 +1,29 @@
+<!-- HEADER ANIMATO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Leonardo%20Collaretta&fontSize=35"/>
 </p>
 
- ## My lenguage knowledge:
+<!-- WHOAMI -->
+## >>> Whoami
+
+<p>
+  <strong><span style="font-size:18px;">🇮🇹 Italiano:</span></strong><br>
+  Ciao, sono Leonardo! Anche se non sembra, studio programmazione e diventerò un professionista del settore. 
+  Uso principalmente sistemi Linux-based. Qui puoi trovare di cosa mi occupo, cosa sto studiando e a cosa sto lavorando.
+  Lavoro presso un'azienda di sviluppo software con implementazione AI.
+  Come hobby studio, vado in moto, in palestra e faccio parte della Croce Rossa Italiana.
+</p>
+
+<p>
+  <strong><span style="font-size:18px;">🇬🇧 English:</span></strong><br>
+  Hi, I'm Leonardo! Even if it doesn’t seem like it, I study programming and aim to become a professional in the field. 
+  I mainly use Linux-based systems. Here you can see what I do, what I’m learning, and what I’m working on.
+  I work at a software development company with AI implementation. 
+  As hobbies, I ride motorcycles, go to the gym, and am part of the Italian Red Cross.
+</p>
+
+<!-- LINGUAGGI -->
+## >>> My language knowledge
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -13,9 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-##  About Me
+<!-- ABOUT ME -->
+## >>> About Me
 
-name: Leonardo
 role: Developer/Student
 focus: Systems & Low-level programming
 
@@ -23,7 +44,7 @@ learning:
   - OS Development
   - Backend
   - Java game programming
-  - web developing
+  - Web developing
 
 projects:
   - Python websocket chat program
@@ -31,22 +52,8 @@ projects:
   - Web-site for ARtour of my school
   - RTSP utils
 
-## My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/>
-</p>
+## >>> My Stats
 
-<div style="display:flex; align-items:center; gap:20px; border:2px solid #4CAF50; padding:10px; border-radius:10px; max-width:500px;">
-  <!-- Testo a sinistra -->
-  <div style="flex:1; font-size:58px;">
-    Una semplice papera
-  </div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lexy0825&show_icons=true&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexy0825&layout=compact&theme=radical&hide_border=true"/> </p> 
 
-  <!-- Immagine a destra -->
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyZDl1eXhnbGpxMGszd2QxenJ6aDMxY3plOWw1MHo1eHU1dW8xdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LxAwk0rwFH4wcJSM9T/giphy.gif" width="120" style="border-radius:15px;"/>
-  </div>
-</div>
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Leonardo%20Collaretta&fontSize=35&animation=wave&flip=true"/> </p> ```
