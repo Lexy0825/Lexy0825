@@ -63,4 +63,4 @@ projects:
 - 📸 Instagram: [@_.leo._rs](https://www.instagram.com/_.leo._rs/)
 - 💼 GitHub: [Leonardo C.](https://github.com/Lexy0825)
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=DAI%20UN'%20OCCHIATA!&fontSize=35&animation=wave&flip=true"/> </p> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=TAKE%20A%20LOOK!&fontSize=35&animation=wave&flip=true"/> </p> 
